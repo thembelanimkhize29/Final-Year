@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921467638873",
+    "firebase_url": "https://sphalaphalaapp.firebaseio.com",
+    "project_id": "sphalaphalaapp",
+    "storage_bucket": "sphalaphalaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921467638873:android:011ec11c176dfc076e4d48",
+        "android_client_info": {
+          "package_name": "com.example.sphalaphalaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921467638873-uj5ct3s6kq9q6rnqjl2su6tu0870nf57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sphalaphalaapp",
+            "certificate_hash": "fa2e28751e156b769c5de5874fd808916b743cd1"
+          }
+        },
+        {
+          "client_id": "921467638873-7gn3kah9fogq1ssehtppd8m21jm4u1i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKj9KAlbw4ERzog4SrhejCbLPO2I2LPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921467638873-7gn3kah9fogq1ssehtppd8m21jm4u1i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

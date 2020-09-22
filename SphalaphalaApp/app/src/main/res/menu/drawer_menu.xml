@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ShowIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_loc"
+            android:icon="@drawable/ic_baseline_location"
+            android:title="Location" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_baseline_contact"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news_02"
+            android:title="News" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_question_answer_01"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/nav_loguot"
+            android:icon="@drawable/ic_log_out_01"
+            android:title="Log out" />
+    </group>
+</menu>
